@@ -4,7 +4,20 @@
     margin: 0;
 }
 
+/* .logo {
+    margin-bottom: 0;
+    background-color: aqua;
+} */
+
+img {
+    width: 188px;
+    height: 44px;
+    display: block;
+    margin: 50px auto;
+}
+
 #konten {
+    /* margin-top: 0; */
     width: 466px;
     height: 735px;
     background-color: #0497E1;

@@ -2,6 +2,13 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+img {
+    width: 188px;
+    height: 44px;
+    display: block;
+    margin: 50px auto;
+}
+
 .konten {
     width: 954px;
     height: 825px;
